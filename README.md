@@ -1,10 +1,10 @@
-# Tareas App
+# TareasMongo
 
 Esta es una aplicación de línea de comandos para administrar tareas.
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/your-username/tareas-app.git`
+1. Clona el repositorio: `git clone https://github.com/cchsalazar/TareasMongo.git`
 2. Instala las dependencias: `npm install`
 
 ## Uso
